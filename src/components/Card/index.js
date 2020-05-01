@@ -11,7 +11,7 @@ export default function Card() {
                   
                 </header>
                 <p>
-                    Fazer migração
+                    Fazer migração de conteudo
                 </p>
                 <img src="https://api.adorable.io/avatars/285/Andre.png" alt=""/>
             </Container>
