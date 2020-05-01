@@ -16,6 +16,8 @@ header{
     justify-content: space-between;
     align-items:center;
     height:42px;
+   7
+    
     h2{
         font-weight:500;
         font-size:16px;
@@ -29,7 +31,14 @@ header{
         background:#3b5bfd;
         border: 0;
         cursor:pointer;
+       
+        
+        
 
+    }
+
+    ul{
+        margin-top:30px;
     }
 }
 
